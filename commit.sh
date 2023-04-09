@@ -1,6 +1,6 @@
 #!/bin/bash
 
-git add *
-git commit -m "first commit"
-git branch -M main
+git add L*
+git commit -m "lab_5"
+#git branch -M main
 git push mygit
